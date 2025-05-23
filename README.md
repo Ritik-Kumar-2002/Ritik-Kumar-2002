@@ -5,7 +5,7 @@
 - 👨‍💻 Interested in: **Java**, **React**, **System Design**
 - 💞️ I’m looking to collaborate on Projects with new emerging technologies in IT Sector.
 
-- 📫 Reach me at: [ritikkhanna079@gmail.com]
+- 📫 Reach me at: ritikkhanna079@gmail.com
 - 📫 Contact: 9389456691
 ---
 
