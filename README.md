@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Hi there, I'm Ritik Kumar!
 
-<!--
-**Ritik-Kumar-2002/Ritik-Kumar-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm working at **Tata Consultancy Services** as an Assistant System Engineer.
+- 🌱 Currently learning: **Citrix Cloud**, **Microsoft Azure**, and **Machine Learning**
+- 👨‍💻 Interested in: **Java**, **React**, **System Design**
+- 💞️ I’m looking to collaborate on Projects with new emerging technologies in IT Sector.
 
-Here are some ideas to get you started:
+- 📫 Reach me at: [ritikkhanna079@gmail.com]
+- 📫 Contact: 9389456691
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 My Skills:
+# Technical Skills
+- Java
+- Front End development **HTML, CSS, JS, REACT JS, MATERIAL UI**
+- Citrix Cloud, Microsoft Azure, Service Now
+- Git & GitHub • Problem Solving
+
+---
+
+### 📌 Pinned Projects:
+- [Sorting Visualizer](https://github.com/Ritik-Kumar-2002/SortingVisualizer.github.io)
+- [Portfolio Website](https://github.com/Ritik-Kumar-2002/PersonalPortfolio)
+
