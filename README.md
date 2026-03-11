@@ -14,6 +14,8 @@
 - Java
 - Front End development **HTML, CSS, JS, REACT JS, MATERIAL UI**
 - Citrix Cloud, Microsoft Azure, Service Now
+- Python, Numpy, Pandas, Matplotlib and other libraries
+- -Data Structure and Algorithms
 - Git & GitHub • Problem Solving
 
 ---
@@ -21,4 +23,5 @@
 ### 📌 Pinned Projects:
 - [Sorting Visualizer](https://github.com/Ritik-Kumar-2002/SortingVisualizer.github.io)
 - [Portfolio Website](https://github.com/Ritik-Kumar-2002/PersonalPortfolio)
+- [TicTacToe Game] (https://ritik-kumar-2002.github.io/TIC-TAC-TOE-Game/)
 
