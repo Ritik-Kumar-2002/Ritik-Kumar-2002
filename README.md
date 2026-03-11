@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Ritik Kumar!
 
-- 💻 I'm working at **Tata Consultancy Services** as an Assistant System Engineer.
+- 💻 I'm working at **Tata Consultancy Services** as an System Engineer.
 - 🌱 Currently learning: **Citrix Cloud**, **Microsoft Azure**, and **Machine Learning**
 - 👨‍💻 Interested in: **Java**, **React**, **System Design**
 - 💞️ I’m looking to collaborate on Projects with new emerging technologies in IT Sector.
