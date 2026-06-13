@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Ritik Kumar!
 
 - 💻 I'm working at **Tata Consultancy Services** as an System Engineer.
-- 🌱 Currently learning: **Citrix Cloud**, **Microsoft Azure**, and **Machine Learning**
-- 👨‍💻 Interested in: **Java**, **React**, **System Design**
+- 🌱 Currently learning: **Machine Learning**, **Deep Learning**,  **LLM** 
+- 👨‍💻 Interested in: **Python**, **Machine Learning**, **Arfiticial Intelligence**, **Java**, **React**, **System Design**
 - 💞️ I’m looking to collaborate on Projects with new emerging technologies in IT Sector.
 
 - 📫 Reach me at: ritikkhanna079@gmail.com
@@ -11,10 +11,12 @@
 
 ### 🔧 My Skills:
 # Technical Skills
+- Python, Numpy, Pandas, Matplotlib, scikit learn, seaborn, streamlit etc.
+- Machine Learning
+- LLMs
 - Java
 - Front End development **HTML, CSS, JS, REACT JS, MATERIAL UI**
 - Citrix Cloud, Microsoft Azure, Service Now
-- Python, Numpy, Pandas, Matplotlib and other libraries
 - -Data Structure and Algorithms
 - Git & GitHub • Problem Solving
 
