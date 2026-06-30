@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Ritik Kumar!
 
 - 💻 I'm working at **Tata Consultancy Services** as an System Engineer.
-- 🌱 Currently learning: **Machine Learning**, **Deep Learning**,  **LLM** 
-- 👨‍💻 Interested in: **Python**, **Machine Learning**, **Arfiticial Intelligence**, **Java**, **React**, **System Design**
+- 🌱 Currently learning: **Deep Learning**,  **LLM** 
+- 👨‍💻 Interested in: **Python**, **Machine Learning**, **Arfiticial Intelligence**, **LLM**, **Java**, **React**, **System Design**
 - 💞️ I’m looking to collaborate on Projects with new emerging technologies in IT Sector.
 
 - 📫 Reach me at: ritikkhanna079@gmail.com
